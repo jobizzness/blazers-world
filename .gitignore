@@ -3,9 +3,10 @@ coverage
 build
 node_modules
 stats.json
+app/env.js
 
 # Cruft
 .DS_Store
 npm-debug.log
 .idea
-app/env.js
+
